@@ -20,8 +20,8 @@ A systematic investigation into building a platform to solve specific personal p
 | File | Contents |
 |------|----------|
 | `problem_statement.md` | The four problems defined |
-| `vision.md` | Platform vision and phases |
-| `phases.md` | Phase 0 through Phase 3 |
+| `vision.md` | Platform vision |
+| `roadmap.md` | Project roadmap with phases and tasks |
 | `existing_approaches.md` | Research on Julia, Biomch-L, Discourse, MCP servers, alternative platforms |
 | `hosting.md` | Hosting options for the scraper app |
 | `twitter_economics.md` | Twitter/X data access pricing and options |
@@ -31,4 +31,4 @@ A systematic investigation into building a platform to solve specific personal p
 
 ## Status
 
-**Paused.** The Twitter/X API is priced out of reach for indie developers ($200/mo minimum to read other users' tweets), and every workaround is fragile. The Discourse community platform would need the Claude Code team's support for distribution and marketing. Taking this to office hours for discussion.
+**Active.** Twitter/X scraper is blocked by API costs, but pivoting to a concrete next step: setting up a local Discourse server, seeding it with real issues/bugs/fixes, and testing whether Claude Code can plug in via the official Discourse MCP server to search for solutions. Office hours meeting with the Claude Code team upcoming.

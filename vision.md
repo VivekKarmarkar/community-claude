@@ -20,7 +20,4 @@ A **standalone scraper application** powered by the **Claude Agent SDK** fetches
 
 ## Phases
 
-- **Phase 0:** Build the Twitter/X scraper app using the Claude Agent SDK on laptop. Output curated content to a file.
-- **Phase 1:** Phase 0 but on the cloud.
-- **Phase 2:** Set up the Discourse server with categories for jobs, issues/fixes, and gallery.
-- **Phase 3:** Connect the scraper app to Discourse via the Discourse MCP server so curated content posts automatically.
+See `roadmap.md` for the full project roadmap with tasks, exit criteria, and risks.
